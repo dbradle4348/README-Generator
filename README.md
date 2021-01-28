@@ -19,10 +19,10 @@
   A README Generator that works through the command line to create an easy to read, professional README file for a project.
 
   ## Installation
-  npm install
+  npm install inquirer (https://www.npmjs.com/package/inquirer#installation)
 
   ## Usage
-  After running "node index.js" on the command line, the application will use inquirer to generate markdown and write user responses into a readme file for use in the project.
+  After running "node index.js" on the command line, the application will use inquirer to generate markdown and write user responses into a readme that will look similar to this file for use in the user's project. 
 
   ## Tests
   N/A
