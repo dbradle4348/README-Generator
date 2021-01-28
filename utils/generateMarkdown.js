@@ -48,10 +48,11 @@ function generateMarkdown(data) {
 
   * [Team Members](#team-members)
 
-  
+  ${renderLicenseBadge(data.license)}
+ 
   ${renderLicenseSection(data.license)}
   
-  ${renderLicenseBadge(data.license)}
+  
 
   ## Description
   ${data.description}
