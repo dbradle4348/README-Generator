@@ -16,8 +16,8 @@
   ## License 
     
     This project is licensed under the MIT license.
-  * [License](https://www.boost.org/LICENSE_1_0.txt)
-  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+  
+  ![License Text](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
   A README Generator that works through the command line to create an easy to read, professional README file for a project.
