@@ -15,7 +15,7 @@ function renderLicenseLink(license) {
   if (license === 'None') {
     return ''
   } else {
-    return '* [License](#license)'
+    return '* [License](https://www.boost.org/LICENSE_1_0.txt)'
 }
 };
 // TODO: Create a function that returns the license section of README

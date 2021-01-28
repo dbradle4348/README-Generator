@@ -1,4 +1,4 @@
-# REAME Generator
+# README Generator
 
   ## Table of Contents
 
@@ -16,14 +16,14 @@
   ## License 
     
     This project is licensed under the MIT license.
-  * [License](#license)
+  * [License](https://www.boost.org/LICENSE_1_0.txt)
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
   A README Generator that works through the command line to create an easy to read, professional README file for a project.
 
   ## Installation
-  After running "node index.js" on the command line, the application will use inquirer to generate markdown and write user responses into a readme that will look similar to this file for use in the user's project.
+  npm install inquirer
 
   ## Usage
   After running "node index.js" on the command line, the application will use inquirer to generate markdown and write user responses into a readme that will look similar to this file for use in the user's project.
