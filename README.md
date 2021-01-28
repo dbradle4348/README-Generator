@@ -27,6 +27,10 @@
 
   ## Usage
   After running "node index.js" on the command line, the application will use inquirer to generate markdown and write user responses into a readme that will look similar to this file for use in the user's project.
+  
+  Walkthrough Video:
+  
+  https://youtu.be/UaBv2hLPw4I
 
   ## Tests
   N/A
