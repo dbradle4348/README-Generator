@@ -41,5 +41,5 @@
   
   Github Account: [dbradle4348](https://https://github.com/dbradle4348)
 
-  Email: daniel.bradley09@gmail.com
+  Email: snigabur01@hotmail.com
 
