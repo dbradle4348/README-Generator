@@ -23,14 +23,11 @@
   A README Generator that works through the command line to create an easy to read, professional README file for a project.
 
   ## Installation
-  npm install inquirer
+  npm install or just visit deployed site at https://hidden-lake-16401.herokuapp.com/dashboard
 
   ## Usage
-  After running "node index.js" on the command line, the application will use inquirer to generate markdown and write user responses into a readme that will look similar to this file for use in the user's project.
-  
-  Walkthrough Video:
-  
-  https://youtu.be/UaBv2hLPw4I
+  Run "npm start" to start the server, or visit deployed site
+  Users can create an account, login, see posts on a dashboard, post themselves, and logout.
 
   ## Tests
   N/A
