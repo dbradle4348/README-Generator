@@ -15,19 +15,18 @@
   
   ## License 
     
-    This project is licensed under the MIT license.
+  This project is licensed under the MIT license.
   
-  ![License Text](https://img.shields.io/badge/License-MIT-blue.svg)
+  (https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
   A README Generator that works through the command line to create an easy to read, professional README file for a project.
 
   ## Installation
-  npm install or just visit deployed site at https://hidden-lake-16401.herokuapp.com/dashboard
+  npm install inquirer
 
   ## Usage
-  Run "npm start" to start the server, or visit deployed site
-  Users can create an account, login, see posts on a dashboard, post themselves, and logout.
+  After running "node index.js" on the command line, the application will use inquirer to generate markdown and write user responses into a readme that will look similar to this file for use in the user's project.
 
   ## Tests
   N/A
